@@ -1,7 +1,20 @@
-dsajkdhsakjldhsakldh
+1. git clone /xxx/xxx
+clone master project from cloub to local
 
-gfdgdg
+2. git status
+check operation status
 
-gfdgd
+3. git add xxx.txt
+push changes to temp 
 
-gfdgfd
+4. git commit -m "message"
+push objective and messages
+
+5. git push
+push changes to cloud
+
+6. git pull
+pull all changes from cloud to local
+
+******
+git add .    (不准做这个操作)
